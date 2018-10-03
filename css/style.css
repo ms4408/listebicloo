@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+
+}
+
+
+h1{
+  position: relative;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  color :#fd7e14;
+}
+
+
+ul {
+  border: solid 1px black;
+  padding: 8px;
+  width: 500px;
+  text-align: center;
+  border-bottom: 2px black black;
+  list-style: none;
+  color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 18px;
+}
+.alerte {
+  color: blue;
+}
+
+p {
+  font-s
+}
